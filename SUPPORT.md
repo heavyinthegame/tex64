@@ -3,7 +3,7 @@
 ## Get help
 
 - Product support: [tex64.com/support](https://tex64.com/support)
-- Contact: [tex64ai@gmail.com](mailto:tex64ai@gmail.com)
+- Contact: [contact@fermion.company](mailto:contact@fermion.company)
 
 ## Report a bug or request a feature
 

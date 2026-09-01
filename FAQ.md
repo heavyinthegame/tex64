@@ -26,4 +26,4 @@ Use the support page: [https://tex64.com/support](https://tex64.com/support)
 
 ## How can I contact the team?
 
-Email: [tex64ai@gmail.com](mailto:tex64ai@gmail.com)
+Email: [contact@fermion.company](mailto:contact@fermion.company)

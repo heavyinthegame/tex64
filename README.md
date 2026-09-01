@@ -63,7 +63,7 @@ Found a rough edge? Have a feature request? [Open an issue](https://github.com/h
 - [tex64.com](https://tex64.com)
 - [Documentation](https://tex64.com/docs)
 - [Support](https://tex64.com/support)
-- [tex64ai@gmail.com](mailto:tex64ai@gmail.com)
+- [contact@fermion.company](mailto:contact@fermion.company)
 
 ---
 
