@@ -6,7 +6,7 @@ This file tracks only public-facing work that is safe to share.
 
 - Improve onboarding for first-time users
 - Polish document editing and navigation flows
-- Improve macOS beta stability and performance
+- Improve Windows and macOS stability and performance
 - Expand documentation and release notes
 - Tighten the download and update experience
 
@@ -14,7 +14,7 @@ This file tracks only public-facing work that is safe to share.
 
 - Better project organization workflows
 - More learning material and example projects
-- Broader platform and distribution planning
+- Improve existing Microsoft Store and macOS distribution workflows
 
 ## Notes
 
