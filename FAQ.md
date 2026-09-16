@@ -10,7 +10,7 @@ Windows 10/11 x64 through Microsoft Store, and macOS 12 or later on Apple Silico
 
 ## What is free?
 
-The core editor, visual equation input, OCR, local PDF builds and SyncTeX are free. Axiom is a separate online AI service. See the [current plans](https://tex64.com/#pricing).
+The editor is free to use. Optional Axiom plans provide online AI usage. See the [current plans](https://tex64.com/#pricing).
 
 ## Does it work offline?
 
