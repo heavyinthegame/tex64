@@ -4,9 +4,9 @@ A LaTeX editor for Windows and macOS, focused on writing and revising mathematic
 
 [Website](https://tex64.com) · [Download](https://tex64.com/download?ref=github&campaign=2026-09-launch) · [Documentation](https://tex64.com/docs) · [Editor comparison](https://tex64.com/latex-editor) · [FAQ](./FAQ.md)
 
-TeX64 combines visual equation editing, on-device equation OCR, local PDF builds and SyncTeX. It works with ordinary `.tex` files and project folders. The core editor, equation input, OCR and local PDF workflow are free. Axiom is a separate online AI editing service with its own usage plans.
+Write and revise equations visually, or import an equation image and edit the result in your document. TeX64 works with ordinary `.tex` files and project folders. Axiom provides online AI editing.
 
-日本語: TeX64は、数式を見たまま入力・修正できるWindows・Mac用のTeXエディタです。通常の`.tex`ファイルを扱い、数式OCR、PDFビルド、SyncTeXなどの基本機能を無料で利用できます。オンラインのAI編集機能Axiomは別の機能です。[製品の説明](https://tex64.com/ja)・[TeXエディタの選び方](https://tex64.com/ja/latex-editor)。
+日本語: TeX64は、数式を見たまま入力・修正できるWindows・Mac用のTeXエディタです。画像の数式も、取り込んでその場で修正できます。[製品の説明](https://tex64.com/ja)・[TeXエディタの選び方](https://tex64.com/ja/latex-editor)。
 
 ## What it does
 
